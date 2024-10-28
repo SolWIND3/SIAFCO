@@ -5,7 +5,7 @@
 .Header{
     min-height: 100vh;
     width: 100%;
-    background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(Panpacific.jpg);
+    background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(Images/Panpacific.jpg);
     background-position: center;
     background-size: cover;
     position: relative;
@@ -93,6 +93,5 @@ div.nav-links ul li{
     background-position: center;
     background-size: cover;
     position: relative;
-    /* Add this line */
     background-attachment: fixed;
 }
